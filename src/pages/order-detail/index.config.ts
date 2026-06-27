@@ -1,9 +1,9 @@
 export default typeof definePageConfig === 'function'
   ? definePageConfig({
-      navigationBarTitleText: '味鲜阁 · 点单',
+      navigationBarTitleText: '订单详情',
       navigationBarBackgroundColor: '#ffffff',
       navigationBarTextStyle: 'black',
     })
   : {
-      navigationBarTitleText: '味鲜阁 · 点单',
+      navigationBarTitleText: '订单详情',
     }
