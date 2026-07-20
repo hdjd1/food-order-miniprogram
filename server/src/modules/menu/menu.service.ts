@@ -32,7 +32,7 @@ const categories: Category[] = [
 const dishes: Dish[] = [
   // 招牌推荐
   { id: 1, categoryId: 1, name: '秘制红烧肉', price: 68, image: 'https://images.unsplash.com/photo-1623874514711-0f321325f318?w=400&h=300&fit=crop', description: '精选五花肉，文火慢炖4小时，入口即化', isRecommended: true, salesCount: 286 },
-  { id: 2, categoryId: 1, name: '香辣水煮鱼', price: 88, image: 'https://images.unsplash.com/photo-1583391733956-6c78276477e5?w=400&h=300&fit=crop', description: '鲜活草鱼，麻辣鲜香，嫩滑可口', isRecommended: true, salesCount: 219 },
+  { id: 2, categoryId: 1, name: '香辣水煮鱼', price: 88, image: 'https://coze-coding-project.tos.coze.site/coze_storage_7655967141530730536/image/generate_image_cc9c3518-b265-40c0-85ca-5acbe1278d5a.jpeg?sign=1816058005-dd4f4ee250-0-f190a457d4ca2c9b1f7071cc60ff8ee48b199ea35188355068313da2ea38773f', description: '鲜活草鱼，麻辣鲜香，嫩滑可口', isRecommended: true, salesCount: 219 },
   { id: 3, categoryId: 1, name: '金牌蒜香骨', price: 78, image: 'https://images.unsplash.com/photo-1544025162-d76694265947?w=400&h=300&fit=crop', description: '精选肋排，蒜香浓郁，外酥里嫩', isRecommended: true, salesCount: 198 },
   // 热菜
   { id: 4, categoryId: 2, name: '宫保鸡丁', price: 48, image: 'https://images.unsplash.com/photo-1525755662778-989d0524087e?w=400&h=300&fit=crop', description: '鸡胸肉配花生米，酸甜微辣', isRecommended: false, salesCount: 156 },
