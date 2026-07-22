@@ -48,7 +48,7 @@ const dishes: Dish[] = [
   // 主食
   { id: 13, categoryId: 4, name: '五常大米饭', price: 5, image: 'https://images.unsplash.com/photo-1516684732162-798a0062be99?w=400&h=300&fit=crop', description: '东北五常大米，粒粒饱满', isRecommended: false, salesCount: 532 },
   { id: 14, categoryId: 4, name: '蛋炒饭', price: 18, image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&h=300&fit=crop', description: '粒粒分明，蛋香四溢', isRecommended: false, salesCount: 89 },
-  { id: 15, categoryId: 4, name: '葱油拌面', price: 16, image: 'https://images.unsplash.com/photo-1552611052-33e04de1b100?w=400&h=300&fit=crop', description: '葱香浓郁，简单美味', isRecommended: false, salesCount: 76 },
+  { id: 15, categoryId: 4, name: '葱油拌面', price: 16, image: 'https://coze-coding-project.tos.coze.site/coze_storage_7655967141530730536/image/generate_image_41b45e1f-b242-4d01-becf-8eb0c24bf0e2.jpeg?sign=1816265611-77b8874f58-0-6be28f601f2664d1884c5a41336d616960822e1f8b9a5bf8198a384716d14920', description: '葱香浓郁，简单美味', isRecommended: false, salesCount: 76 },
   { id: 16, categoryId: 4, name: '手工水饺（12只）', price: 28, image: 'https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=400&h=300&fit=crop', description: '鲜肉馅，手工包制', isRecommended: false, salesCount: 123 },
   // 汤品
   { id: 17, categoryId: 5, name: '紫菜蛋花汤', price: 12, image: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop', description: '清淡鲜美，家常味道', isRecommended: false, salesCount: 201 },
